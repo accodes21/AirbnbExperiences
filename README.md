@@ -1,3 +1,6 @@
+# Airbnb Experiences Preview
+![MUSIC-PLAYER](https://github.com/accodes21/AirbnbExperiences/blob/master/Screenshot%20(239).png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
